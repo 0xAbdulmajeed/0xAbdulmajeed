@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xAbdulmajeed
 - 👀 I’m interested in Networking,Cybersecurity
-- 🌱 I’m currently learning Networking,cybersecurity,DevOps, and RedHat&CentOS OS
+- 🌱 I’m currently learning Networking,cybersecurity,DevOps, and RedHat&CentOS
 - 📫 How to reach me | Linkedin: https://www.linkedin.com/in/abdulmajeed-alanazi-2769b8296/ 
 
 <!---
