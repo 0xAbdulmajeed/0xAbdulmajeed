@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xAbdulmajeed
+- 👋 Hi, I’m Abdulmajeed Alanazi
 - 👀 I’m interested in Networking,Cybersecurity
 - 🌱 I’m currently learning Networking,cybersecurity.
 - 📫 How to reach me | Linkedin: https://www.linkedin.com/in/abdulmajeed-alanazi-2769b8296/ 
